@@ -1,0 +1,15 @@
+com\cgi\assesment\receipemanager\exception\ReceipeException.class
+com\cgi\assesment\receipemanager\ReceipeManagerApplication.class
+com\cgi\assesment\receipemanager\service\ReceipeServiceImpl$1.class
+com\cgi\assesment\receipemanager\controller\ReceipeController.class
+com\cgi\assesment\receipemanager\exception\ReceipeExceptionHandler.class
+com\cgi\assesment\receipemanager\service\ReceipeServiceImpl.class
+com\cgi\assesment\receipemanager\persistance\entity\ReceipeEntity$ReceipeEntityBuilder.class
+com\cgi\assesment\receipemanager\model\Receipe$ReceipeBuilder.class
+com\cgi\assesment\receipemanager\persistance\entity\ReceipeEntity.class
+com\cgi\assesment\receipemanager\model\Receipe.class
+com\cgi\assesment\receipemanager\persistance\repository\ReceipeRepository.class
+com\cgi\assesment\receipemanager\exception\ReceipeExceptionCodes.class
+com\cgi\assesment\receipemanager\model\ReceipeExceptionDetails.class
+com\cgi\assesment\receipemanager\constants\Constants.class
+com\cgi\assesment\receipemanager\service\ReceipeService.class
